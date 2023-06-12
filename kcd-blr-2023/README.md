@@ -10,4 +10,4 @@ Event Link: https://community.cncf.io/events/details/cncf-kcd-bengaluru-presents
 
 One of the highlight in the conference was sketch notes for each session. Thanks to [Tanvi Agarwal](https://twitter.com/tanvikun) for the awesome sketch note created for the session.
 
-![Sketch Note](prometheus-operator-sketch-notes.jpg)
+![Sketch Note](prometheus-operator-sketch-note.jpg)
